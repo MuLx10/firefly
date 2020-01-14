@@ -86,3 +86,11 @@ if img_type == "rgb":
 print(result)
 # Predicted output saved as prediction.jpg
 ```
+
+## Results
+
+![rgb](https://user-images.githubusercontent.com/23444642/72368100-67053900-3723-11ea-8e04-f34b5239a2e9.jpg)
+![thermal](https://user-images.githubusercontent.com/23444642/72367294-fad60580-3721-11ea-9eab-d695d6dde416.jpg)
+![groundtruth](https://user-images.githubusercontent.com/23444642/72367337-10e3c600-3722-11ea-86fb-9cd6c113ddad.jpeg)
+
+
