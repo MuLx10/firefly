@@ -63,8 +63,8 @@ $ ./darknet detector demo cfg/coco.data cfg/yolov3.cfg backup/yolov3.weights <vi
 
 ```python
 from subprocess import Popen, PIPE
-thermal = "./darknet detector test cfg/thermal.data cfg/yolov3-spp-custom.cfg backup/yolov3-spp-thermal.weights"
-rgb = "./darknet detector test cfg/coco.data cfg/yolov3.cfg backup/yolov3.weights"
+thermal = "./darknet detector test cfg/thermal.data cfg/yolov3-spp-custom.cfg backup/yolov3-spp-thermal.weights -dont_show"
+rgb = "./darknet detector test cfg/coco.data cfg/yolov3.cfg backup/yolov3.weights -dont_show"
 
 pthermal = Popen([thermal], shell=True, stdout=PIPE, stdin=PIPE)
 prgb = Popen([rgb], shell=True, stdout=PIPE, stdin=PIPE)
