@@ -1,5 +1,7 @@
 # firefly
 
+Enhancing Object Detection in using Thermal Imaging for thin cross-section unidentifiable objects(eg. cyclist, pedestrians).
+### [Demo](https://drive.google.com/open?id=1Gd0lG8p1QAzlaUT68ymE2VNiJehkH2np)
 
 ## To build the package
 
