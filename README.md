@@ -3,6 +3,15 @@
 Enhancing Object Detection in using Thermal Imaging for thin cross-section unidentifiable objects(eg. cyclist, pedestrians).
 ### [Demo](https://drive.google.com/open?id=1Gd0lG8p1QAzlaUT68ymE2VNiJehkH2np)
 
+To run the gui use the command:
+``` python StreamResults.py <path_to_video_file>```
+
+## GUI DEMO: 
+
+1. ### [Results on RGB](https://drive.google.com/file/d/1gTBOVvd5BbTiCAH5WfZCANObYhH3Davg/view?usp=sharing)
+
+2. ### [Results on Thermal Images](https://drive.google.com/file/d/1h5bl1PeGMV9aJcYkrEd1tlk9j-rklUb1/view?usp=sharing)
+
 ## To build the package
 
 ```bash
