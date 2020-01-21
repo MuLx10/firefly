@@ -8,9 +8,9 @@ To run the gui use the command:
 
 ## GUI DEMO: 
 
-1. ### [Results on RGB](https://drive.google.com/file/d/1gTBOVvd5BbTiCAH5WfZCANObYhH3Davg/view?usp=sharing)
+1. [Results on RGB](https://drive.google.com/file/d/1gTBOVvd5BbTiCAH5WfZCANObYhH3Davg/view?usp=sharing)
 
-2. ### [Results on Thermal Images](https://drive.google.com/file/d/1h5bl1PeGMV9aJcYkrEd1tlk9j-rklUb1/view?usp=sharing)
+2. [Results on Thermal Images](https://drive.google.com/file/d/1h5bl1PeGMV9aJcYkrEd1tlk9j-rklUb1/view?usp=sharing)
 
 ## To build the package
 
